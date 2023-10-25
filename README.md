@@ -1,16 +1,15 @@
 # todo_app
 
 A new Flutter project.
+There is nothing especial features. I just tried to use a database which was Hive.
+How to add and save a data in HIVE database. Besides, how to delete the data from database.
+
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+There has used some packeges.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. HIVE (Using for database to saving the data that what data add through the application.)
+2.  flutter_slidable (A beautiful delete button provide of this packege)..
